@@ -1,0 +1,5 @@
+your_str = input ('Please enter any phrase:')
+sort_str = ''.join(sorted(your_str))
+revers_str = ''.join (sorted(your_str, reverse=True))
+print ('sort result:', sort_str, ''')
+revers_result:''', revers_str)
